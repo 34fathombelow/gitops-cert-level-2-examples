@@ -13,7 +13,7 @@ spec:
 
   # Source of the application manifests
   source:
-    repoURL: ./app-of-apps/my-app-list 
+    repoURL: https://github.com/34fathombelow/gitops-cert-level-2-examples.git 
     targetRevision: HEAD
     path: ./app-of-apps/my-app-list
    
